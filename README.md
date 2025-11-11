@@ -2,7 +2,8 @@
 
 Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, aprendizado constante e criação de projetos que impactam o mundo.  
 
-![GIF animado de programação](https://media.giphy.com/media/3o7aCVc8QjoQb3p1xC/giphy.gif)
+![GIF animado de programação](https://media.giphy.com/media/26xBRyVe7nztOQ6y0/giphy.gif)
+
 
 ---
 
