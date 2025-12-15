@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado constante e criaçã
 ---
 
 ## 🚀 Projetos Recentes
-- [🌐 Meu Portfólio](https://github.com/Deo266/portfolio) – Meu site pessoal com meus projetos.  
+- [🌐 Meu Portfólio](deodatodev-portifolio.netlify.app) – Meu site pessoal com meus projetos.  
 - [📝 App de Tarefas](https://github.com/Deo266/task-app) – App web para organização de tarefas.  
 - [🤖 Bot de Discord](https://github.com/Deo266/discord-bot) – Automação divertida para servidores.  
 
